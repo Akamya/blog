@@ -30,6 +30,9 @@
                 <div class="flex items-center space-x-4 justify-end">
                     <a class="font-bold hover:text-emerald-600 transition" href="{{ route('front.articles.index') }}">Articles</a>
                 </div>
+                <div class="flex items-center space-x-4 justify-end">
+                    <a class="font-bold hover:text-emerald-600 transition" href="{{ route('front.about.index') }}">About</a>
+                </div>
             </nav>
 
             <main>
